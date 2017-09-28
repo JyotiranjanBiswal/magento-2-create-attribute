@@ -1,0 +1,19 @@
+{
+    "name": "jrb/createattribute",
+    "description": "",
+    "type": "magento2-module",
+    "minimum-stability": "dev",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JRB\\CreateAttribute\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
